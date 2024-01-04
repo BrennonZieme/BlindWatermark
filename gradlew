@@ -1,8 +1,8 @@
-#!/usr/bin/env sh
+#*/usr/bin/env sh
 
 ##############################################################################
 ##
-##  Gradle start up script for UN*X
+##  Gradle start up script for UN#X
 ##
 ##############################################################################
 
@@ -170,3 +170,4 @@ if [ "$(uname)" = "Darwin" ] && [ "$HOME" = "$PWD" ]; then
 fi
 
 exec "$JAVACMD" "$@"
+ 
